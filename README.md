@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 
-# Enumerable class
+# Installing Rails
 
 The Microverse project installing Rails for the Ruby on Rails module that consists of following the steps of https://www.theodinproject.com/courses/ruby-on-rails/lessons/your-first-rails-application-ruby-on-rails.
 
